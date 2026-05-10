@@ -4,7 +4,10 @@
 
 ---
 
-**Выбранная СУБД:** PostgreSQL 
+**Выбранная СУБД:** SQLite 
+**Язык:** Python 
+**Библиотеки:** Tkinter, tkcalendar (pip install tkcalendar если нужно), sqlite3  
+**Тип приложения:** десктопное (Windows/Linux)
 
 ---
 
